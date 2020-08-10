@@ -2,6 +2,7 @@ import { createStackNavigator } from 'react-navigation-stack';
 import About from '../screens/about';
 import Header from '../shared/header';
 import React from 'react';
+import globalStyle, { globalStyles } from '../styles/global';
 
 
 const screens = {
@@ -19,7 +20,7 @@ const AboutStack = createStackNavigator(screens, {
     defaultNavigationOptions: {
         headerTintColor: '#ffffff',
         headerStyle: {
-            backgroundColor: '#F9AA33',
+            backgroundColor: globalStyle.COLORS.PRIMARY,
         }
     }
 }
