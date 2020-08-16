@@ -1,0 +1,214 @@
+Array [
+  Object {
+    
+    "etag": "FJs1obUJ2LI",
+    "id": "Qqe0B58gTY0C",
+    "kind": "books#volume",
+ 
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Qqe0B58gTY0C",
+    "volumeInfo": Object {
+      "allowAnonLogging": false,
+      "authors": Array [
+        "Pierre Goubert",
+      ],
+      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_%C3%A9tude_psychologique_de_la_r.html?hl=&id=Qqe0B58gTY0C",
+      "contentVersion": "0.0.3.0.preview.1",
+      "imageLinks": Object {
+        "smallThumbnail": "http://books.google.com/books/content?id=Qqe0B58gTY0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Qqe0B58gTY0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      },
+      "industryIdentifiers": Array [
+        Object {
+          "identifier": "2877757358",
+          "type": "ISBN_10",
+        },
+        Object {
+          "identifier": "9782877757355",
+          "type": "ISBN_13",
+        },
+      ],
+      "infoLink": "http://books.google.com/books?id=Qqe0B58gTY0C&dq=jane+austen&hl=&source=gbs_api",
+      "language": "fr",
+      "maturityRating": "NOT_MATURE",
+      "pageCount": 524,
+      "panelizationSummary": Object {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false,
+      },
+      "previewLink": "http://books.google.com/books?id=Qqe0B58gTY0C&printsec=frontcover&dq=jane+austen&hl=&cd=1&source=gbs_api",
+      "printType": "BOOK",
+      "publishedDate": "1975",
+      "publisher": "Publication Univ Rouen Havre",
+      "readingModes": Object {
+        "image": true,
+        "text": false,
+      },
+      "title": "Jane Austen : étude psychologique de la romancière",
+    },
+  },
+  Object {
+    "accessInfo": Object {
+      "accessViewStatus": "NONE",
+      "country": "DZ",
+      "embeddable": false,
+      "epub": Object {
+        "isAvailable": false,
+      },
+      "pdf": Object {
+        "isAvailable": false,
+      },
+      "publicDomain": false,
+      "quoteSharingAllowed": false,
+      "textToSpeechPermission": "ALLOWED",
+      "viewability": "NO_PAGES",
+      "webReaderLink": "http://play.google.com/books/reader?id=Qn04AAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+    },
+    "etag": "H/B/r0DbLnY",
+    "id": "Qn04AAAAYAAJ",
+    "kind": "books#volume",
+    "saleInfo": Object {
+      "country": "DZ",
+      "isEbook": false,
+      "saleability": "NOT_FOR_SALE",
+    },
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/Qn04AAAAYAAJ",
+    "volumeInfo": Object {
+      "allowAnonLogging": false,
+      "authors": Array [
+        "Léonie Villard",
+      ],
+      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen.html?hl=&id=Qn04AAAAYAAJ",
+      "contentVersion": "1.1.1.0.preview.0",
+      "imageLinks": Object {
+        "smallThumbnail": "http://books.google.com/books/content?id=Qn04AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=Qn04AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+      },
+      "industryIdentifiers": Array [
+        Object {
+          "identifier": "PRNC:32101068581089",
+          "type": "OTHER",
+        },
+      ],
+      "infoLink": "http://books.google.com/books?id=Qn04AAAAYAAJ&dq=jane+austen&hl=&source=gbs_api",
+      "language": "fr",
+      "maturityRating": "NOT_MATURE",
+      "pageCount": 399,
+      "panelizationSummary": Object {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false,
+      },
+      "previewLink": "http://books.google.com/books?id=Qn04AAAAYAAJ&q=jane+austen&dq=jane+austen&hl=&cd=2&source=gbs_api",
+      "printType": "BOOK",
+      "publishedDate": "1914",
+      "readingModes": Object {
+        "image": false,
+        "text": false,
+      },
+      "subtitle": "sa vie et son oeuvre, 1775-1817",
+      "title": "Jane Austen",
+    },
+  },
+  Object {
+    "accessInfo": Object {
+      "accessViewStatus": "SAMPLE",
+      "country": "DZ",
+      "embeddable": true,
+      "epub": Object {
+        "isAvailable": true,
+      },
+      "pdf": Object {
+        "isAvailable": true,
+      },
+      "publicDomain": false,
+      "quoteSharingAllowed": false,
+      "textToSpeechPermission": "ALLOWED",
+      "viewability": "PARTIAL",
+      "webReaderLink": "http://play.google.com/books/reader?id=nqf_Wj2Wwx4C&hl=&printsec=frontcover&source=gbs_api",
+    },
+    "etag": "4KpUMdm8LLY",
+    "id": "nqf_Wj2Wwx4C",
+    "kind": "books#volume",
+    "saleInfo": Object {
+      "country": "DZ",
+      "isEbook": false,
+      "saleability": "NOT_FOR_SALE",
+    },
+    "searchInfo": Object {
+      "textSnippet": "And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter 
+on the recent film version of Mansfield Park.",
+    },
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/nqf_Wj2Wwx4C",
+    "volumeInfo": Object {
+      "allowAnonLogging": false,
+      "authors": Array [
+        "Linda Troost",
+        "Sayre N. Greenfield",
+      ],
+      "averageRating": 5,
+      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_in_Hollywood.html?hl=&id=nqf_Wj2Wwx4C",
+      "categories": Array [
+        "Performing Arts",
+      ],
+      "contentVersion": "0.0.2.0.preview.3",
+      "description": "In 1995 and 1996 six film or television adaptations of Jane Austen's novels were produced -- an unprecedented number. More amazing, all were critical and/or box office successes. What accounts for this explosion of interest? Much of the appeal of these films lies in our nostalgic desire at the end of the millennium for an age of greater politeness and sexual reticence. Austen's ridicule of deceit and pretentiousness also appeals to our fin de siècle sensibilities. The novels were changed, however, to enhance their appeal to a wide popular audience, and the revisions reveal much about our own culture and its values. These recent productions espouse explicitly twentieth-century feminist notions and reshape the Austenian hero to make him conform to modern 
+expectations. Linda Troost and Sayre Greenfield present fourteen essays examining the phenomenon of Jane Austen as cultural icon, providing thoughtful and sympathetic insights on the films through a variety of critical approaches. The contributors debate whether these productions enhance or undercut the subtle feminism that Austen promoted in her novels. From Persuasion to Pride and Prejudice, from the three Emmas (including Clueless ) to Sense and Sensibility, these films succeed because they flatter our intelligence and education. And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter on the recent film version of Mansfield Park.",
+      "imageLinks": Object {
+        "smallThumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+      },
+      "industryIdentifiers": Array [
+        Object {
+          "identifier": "0813190061",
+          "type": "ISBN_10",
+        },
+        Object {
+          "identifier": "9780813190068",
+          "type": "ISBN_13",
+        },
+      ],
+      "infoLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&dq=jane+austen&hl=&source=gbs_api",
+      "language": "en",
+      "maturityRating": "NOT_MATURE",
+      "pageCount": 221,
+      "panelizationSummary": Object {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false,
+      },
+      "previewLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&printsec=frontcover&dq=jane+austen&hl=&cd=3&source=gbs_api",
+      "printType": "BOOK",
+      "publishedDate": "2001",
+      "publisher": "University Press of Kentucky",
+      "ratingsCount": 2,
+      "readingModes": Object {
+        "image": true,
+        "text": true,
+      },
+      "title": "Jane Austen in Hollywood",
+    },
+  },
+  Object {
+    "accessInfo": Object {
+      "accessViewStatus": "SAMPLE",
+      "country": "DZ",
+      "embeddable": true,
+      "epub": Object {
+        "acsTokenLink": "http://books.google.com/books/download/Jane_Austen-sample-epub.acsm?id=mvaMmTPlesEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+        "isAvailable": true,
+      },
+      "pdf": Object {
+        "acsTokenLink": "http://books.google.com/books/download/Jane_Austen-sample-pdf.acsm?id=mvaMmTPlesEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
+        "isAvailable": true,
+      },
+      "publicDomain": false,
+      "quoteSharingAllowed": false,
+      "textToSpeechPermission": "ALLOWED",
+      "viewability": "PARTIAL",
+      "webReaderLink": "http://play.google.com/books/reader?id=mvaMmTPlesEC&hl=&printsec=frontcover&source=gbs_api",
+    },
+    "etag": "K8aUPoT9aBg",
+    "id": "mvaMmTPlesEC",
+    "kind": "books#volume",
+    "saleInfo": Object {
+      "country": "DZ",
+      "isEbook": false,
+      "saleability": "NOT_FO...(truncated to the first 10000 characters)

@@ -8,7 +8,7 @@ export const globalStyles = StyleSheet.create({
         flex :1,
     },
     textStyle:{
-        fontFamily: 'Caveat-Bold',
+        fontFamily: 'Montserrat-Regular',
         fontSize:18,
         color:'#344955',
     },

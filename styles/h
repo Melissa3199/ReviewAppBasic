@@ -1,0 +1,18 @@
+SyntheticEvent {
+  
+ 
+  "eventPhase": undefined,
+  "isDefaultPrevented": [Function functionThatReturnsFalse],
+  "isPropagationStopped": [Function functionThatReturnsFalse],
+  "isTrusted": undefined,
+  "nativeEvent": Object {
+    "target": 4105,
+    "text": "Hhiuyjjnn",
+  },
+  "target": 4105,
+  "timeStamp": 1597272710500,
+  "type": undefined,
+}
+
+
+SyntheticEvent.nativeEvent.text

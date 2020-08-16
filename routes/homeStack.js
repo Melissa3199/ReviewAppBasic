@@ -3,6 +3,8 @@ import Home from '../screens/home';
 import ReviewDetails from '../screens/reviewDetails';
 import Header from '../shared/header';
 import React from 'react';
+import theme from "../constants/Theme"
+import Profile from '../screens/profile'
 
 const screens = {
     Home: {
@@ -19,13 +21,15 @@ const screens = {
             title: 'Review Details',
         }
     },
+  
+
 }
 
 const HomeStack = createStackNavigator(screens, {
     defaultNavigationOptions: {
-        headerTintColor : '#ffffff',
+        headerTintColor : theme.COLORS.DEFAULT,
         headerStyle : {
-            backgroundColor : '#F9AA33',
+            backgroundColor :theme.COLORS.DEFAULT,
         }
 
     }
