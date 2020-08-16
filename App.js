@@ -1,17 +1,21 @@
 import React,{useState} from 'react';
 import * as Font from 'expo-font';
 import {AppLoading} from 'expo';
-import Navigator from './routes/drawer';
+import Navigator from './routes/welcomeStack';
+import BookDetails from './screens/bookDetails'
+import SignIn from './screens/signIn';
+import Welcome from './screens/welcome';
 
 const getFonts = ()=> Font.loadAsync({
-      'Caveat-Regular': require('./assets/fonts/Caveat-Regular.ttf'),
-      'Caveat-Bold' : require('./assets/fonts/Caveat-Bold.ttf'),
+     'Montserrat-Regular': require('./assets/fonts/Montserrat-Regular.ttf'),
+      'Montserrat-Bold' : require('./assets/fonts/Montserrat-Bold.ttf'),
+     'Montserrat-Italic' : require('./assets/fonts/Montserrat-Italic.ttf'),
+      'Montserrat-SemiBold' : require('./assets/fonts/Montserrat-SemiBold.ttf'),
     });
   
 
 
-export default function App() {
- 
+export default function App() { 
   const [fontsLoaded,setFontsLoaded] = useState(false);
   if(fontsLoaded){
     return (
@@ -24,8 +28,6 @@ export default function App() {
       onFinish={()=>setFontsLoaded(true)}
     />
     );
-
   }
-
 }
 

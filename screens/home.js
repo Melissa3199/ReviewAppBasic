@@ -7,22 +7,20 @@ import { MaterialIcons } from '@expo/vector-icons';
 
 export default function Home({ navigation }) {
 
-    const [modalOpen, setModalOpen] = useState(false);
     const [reviews, setReviews] = useState([
-        { title: 'Zelda, Breath of Fresh Air', rating: 5, body: 'lorem ipsum', key: '1' },
-        { title: 'Gotta Catch Them All (again)', rating: 4, body: 'lorem ipsum', key: '2' },
-        { title: 'Not So "Final" Fantasy', rating: 3, body: 'lorem ipsum', key: '3' },
+        { title: 'Becoming', rating: 3,image:'../assets/MichelleObamafront.jpg', body: 'Dans ses mémoires très attendus, Michelle Obama raconte son parcours exceptionnel, depuis son enfance dans le South Side de Chicago en passant par les années au cours desquelles  elle a dû concilier sa vie d’avocate et de mère de famille, jusqu’aux huit années passées à la Maison-Blanche, où l’ancienne première dame a su imprimer sa marque tout en soutenant son mari alors qu’il dirigeait l’Amérique pendant des moments difficiles.', key: '1' },
+        { title: 'Everything I Never Told You', rating: 4 ,image:'../assets/MichelleObamafront.jpg',  body: 'lorem ipsum', key: '2' },
+        { title: 'The Curious Incident of the Dog in the Night', rating: 3 ,image:'../assets/MichelleObamafront.jpg', body: 'lorem ipsum', key: '3' },
     ]);
     return (
         <View style={globalStyles.container}>
-            <Modal visible={modalOpen} animationType='slide'>
+            {/*<Modal visible={modalOpen} animationType='slide'>
                 <View>
                     <MaterialIcons
                         name='close'
                         size={28}
                         onPress={() => setModalOpen(false)}
                         style = {{...styles.modalToggle, ...styles.modalClose}}
-
                     />
                     <Text>Modal Works !</Text>
                 </View>
@@ -32,14 +30,14 @@ export default function Home({ navigation }) {
                 size={28}
                 onPress={() => setModalOpen(true)}
                 style = {styles.modalToggle}
-            />
+            />*/}
             <FlatList
                 data={reviews}
                 renderItem={({ item }) => {
                     return (
                         <TouchableOpacity>
                             <Card>
-                                <Text style={globalStyles.textStyle} onPress={() => navigation.navigate('ReviewDetails', item)}>{item.title}</Text>
+                                <Text style={globalStyles.textStyle} onPress={() => navigation.navigate('BookDetails', item)}>{item.title}</Text>
                             </Card>
                         </TouchableOpacity>);
                 }

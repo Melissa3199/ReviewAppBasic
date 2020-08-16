@@ -21,8 +21,6 @@ export default function ReviewDetails({ navigation }) {
 
             </Card>
         </View>
-
-
     );
 };
 const styles = StyleSheet.create({
