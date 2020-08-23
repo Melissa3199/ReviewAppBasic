@@ -41,7 +41,7 @@ export default class Books extends Component {
   //  console.log(this.state.booksList)
     return (
       <View style={styles.container}>
-          <BookList books={this.state.booksList}/>
+          <BookList books={this.state.booksList} navigation={this.props.navigation} />
       </View>  
     )
 

@@ -59,7 +59,7 @@ export default createAppContainer(rootDrawerNavigator);
 const styles = StyleSheet.create({
     container:{
        flex: 1, 
-       backgroundColor: "#F96332",
+       backgroundColor: theme.COLORS.PRIMARY,
     },
     text :{
         fontFamily: "montserrat-regular",

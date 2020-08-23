@@ -9,7 +9,7 @@ const BookList = (props) => {
       <ScrollView style={styles.container}>
         {
           props.books[0].map((book) => {
-            return <BookCard key={book.id} info={book} />
+            return <BookCard key={book.id} info={book} navigation={props.navigation} />
           })
         }
       </ScrollView>

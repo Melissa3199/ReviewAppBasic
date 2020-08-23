@@ -18,6 +18,7 @@ export default function Header({ navigation }) {
         <TouchableWithoutFeedback onPress={()=>{  
              Keyboard.dismiss(); 
              }}
+             style={{backgroundColor:theme.COLORS.PRIMARY}}
         >
 
             <View style={styles.container}/*ImageBackground style={styles.header} source={require('../assets/game_bg.png')}*/>
@@ -47,17 +48,17 @@ export default function Header({ navigation }) {
 
 const styles = StyleSheet.create({
     header: {
-        width: '100%',
-        height: '100%',
+   
         alignItems: 'center',
         justifyContent: 'center',
         flexDirection: 'row',
-        color: theme.COLORS.PRIMARY,
-        paddingBottom: 0
+        backgroundColor: theme.COLORS.PRIMARY,
+        height:10,
+    
     },
     container: {
         flex: 1,
-
+        
         color: theme.COLORS.PRIMARY,
     },
     textStyle: {

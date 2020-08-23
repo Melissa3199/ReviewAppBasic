@@ -1,6 +1,6 @@
 import React from "react";
 import {
-  StyleSheet, View, Text, Image
+  StyleSheet, View, Text, Image,TouchableOpacity, TouchableWithoutFeedback
 } from "react-native";
 import { Button } from 'galio-framework';
 import theme from "../constants/Theme"
@@ -13,7 +13,8 @@ const BookCard = (props) => {
 
   let Image_URL ={ uri: thumbNail};
   return (
-    
+    <TouchableWithoutFeedback
+    onPress={() => props.navigation.navigate('BookDetails',props.info.volumeInfo,thumbNail)} >
     <View style={{ flex: 1, paddingTop: 10,paddingBottom:10 }} >
     <View style={{ flex: 1, flexDirection: "row",borderWidth:1,borderColor:"transparent" }}>
     <Image source={Image_URL} style={styles.img} />
@@ -25,6 +26,7 @@ const BookCard = (props) => {
     </View>
     
     </View>
+    </TouchableWithoutFeedback>
 
 
   );

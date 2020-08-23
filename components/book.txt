@@ -1,214 +1,447 @@
+        "title": "Harry Potter, science ou sorcellerie ?",
+      },
+    },
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "NONE",
+        "country": "DZ",
+        "embeddable": false,
+        "epub": Object {
+          "isAvailable": false,
+        },
+        "pdf": Object {
+          "isAvailable": false,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=Q2osnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "x8kT6S67k+8",
+      "id": "Q2osnwEACAAJ",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "J.K. Rowling révèle dans ce sixième to...(truncated to the first 10000 characters)
 Array [
-  Object {
-    
-    "etag": "FJs1obUJ2LI",
-    "id": "Qqe0B58gTY0C",
-    "kind": "books#volume",
- 
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/Qqe0B58gTY0C",
-    "volumeInfo": Object {
-      "allowAnonLogging": false,
-      "authors": Array [
-        "Pierre Goubert",
-      ],
-      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_%C3%A9tude_psychologique_de_la_r.html?hl=&id=Qqe0B58gTY0C",
-      "contentVersion": "0.0.3.0.preview.1",
-      "imageLinks": Object {
-        "smallThumbnail": "http://books.google.com/books/content?id=Qqe0B58gTY0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=Qqe0B58gTY0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      },
-      "industryIdentifiers": Array [
-        Object {
-          "identifier": "2877757358",
-          "type": "ISBN_10",
+  Array [
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "SAMPLE",
+        "country": "DZ",
+        "embeddable": true,
+        "epub": Object {
+          "isAvailable": true,
         },
-        Object {
-          "identifier": "9782877757355",
-          "type": "ISBN_13",
+        "pdf": Object {
+          "isAvailable": true,
         },
-      ],
-      "infoLink": "http://books.google.com/books?id=Qqe0B58gTY0C&dq=jane+austen&hl=&source=gbs_api",
-      "language": "fr",
-      "maturityRating": "NOT_MATURE",
-      "pageCount": 524,
-      "panelizationSummary": Object {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false,
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ihztoBxLEVQC&hl=&printsec=frontcover&source=gbs_api",
       },
-      "previewLink": "http://books.google.com/books?id=Qqe0B58gTY0C&printsec=frontcover&dq=jane+austen&hl=&cd=1&source=gbs_api",
-      "printType": "BOOK",
-      "publishedDate": "1975",
-      "publisher": "Publication Univ Rouen Havre",
-      "readingModes": Object {
-        "image": true,
-        "text": false,
+      "etag": "v7Jh2Y4wT3Q",
+      "id": "ihztoBxLEVQC",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
       },
-      "title": "Jane Austen : étude psychologique de la romancière",
-    },
-  },
-  Object {
-    "accessInfo": Object {
-      "accessViewStatus": "NONE",
-      "country": "DZ",
-      "embeddable": false,
-      "epub": Object {
-        "isAvailable": false,
+      "searchInfo": Object {
+        "textSnippet": "LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
       },
-      "pdf": Object {
-        "isAvailable": false,
-      },
-      "publicDomain": false,
-      "quoteSharingAllowed": false,
-      "textToSpeechPermission": "ALLOWED",
-      "viewability": "NO_PAGES",
-      "webReaderLink": "http://play.google.com/books/reader?id=Qn04AAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
-    },
-    "etag": "H/B/r0DbLnY",
-    "id": "Qn04AAAAYAAJ",
-    "kind": "books#volume",
-    "saleInfo": Object {
-      "country": "DZ",
-      "isEbook": false,
-      "saleability": "NOT_FOR_SALE",
-    },
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/Qn04AAAAYAAJ",
-    "volumeInfo": Object {
-      "allowAnonLogging": false,
-      "authors": Array [
-        "Léonie Villard",
-      ],
-      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen.html?hl=&id=Qn04AAAAYAAJ",
-      "contentVersion": "1.1.1.0.preview.0",
-      "imageLinks": Object {
-        "smallThumbnail": "http://books.google.com/books/content?id=Qn04AAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=Qn04AAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-      },
-      "industryIdentifiers": Array [
-        Object {
-          "identifier": "PRNC:32101068581089",
-          "type": "OTHER",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihztoBxLEVQC",
+      "volumeInfo": Object {
+        "allowAnonLogging": true,
+        "authors": Array [
+          "Sandrine Guihéneuf",
+          "lePetitLittéraire.fr,",
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_et_la_Coupe_de_feu_de_J_K_R.html?hl=&id=ihztoBxLEVQC",
+        "categories": Array [
+          "Fiction",
+        ],
+        "contentVersion": "4.12.13.0.preview.3",
+        "description": "Décryptez Harry Potter et la Coupe de Feu de J.K. Rowling avec l’analyse du PetitLitteraire.fr ! Que faut-il retenir d’Harry Potter et la Coupe de Feu, le quatrième tome de la saga littéraire qui a conquis les lecteurs du monde entier ? Retrouvez tout ce que vous devez savoir sur cette œuvre dans une fiche de lecture complète et détaillée. Vous trouverez notamment dans cette fiche : • Un résumé complet • Une présentation des personnages principaux tels que Harry Potter, Ronald Weasley et Hermione Granger • Une analyse des spécificités de l’œuvre : le schéma actantiel, le schéma narratif et le genre du fantasy Une analyse de référence pour comprendre rapidement le sens de l’œuvre. LE MOT DE L’ÉDITEUR : « Dans cette nouvelle édition de notre analyse d’Harry Potter et la Coupe de Feu (2014), avec Sandrine Guihéneuf, nous fournissons des pistes pour décoder ce roman au succès planétaire. Notre analyse permet 
+de faire rapidement le tour de l’œuvre et d’aller au-delà des clichés. » Stéphanie FELTEN À propos de la collection LePetitLitteraire.fr : Plébiscité tant par les passionnés de littérature que par les lycéens, LePetitLittéraire.fr est considéré comme une référence en matière d’analyse d’œuvres classiques et contemporaines. Nos analyses, disponibles au format papier et numérique, ont été conçues pour guider les lecteurs à travers la littérature. Nos auteurs combinent 
+théories, citations, anecdotes et commentaires pour vous faire découvrir et redécouvrir les plus grandes œuvres littéraires. LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
+        "imageLinks": Object {
+          "smallThumbnail": "http://books.google.com/books/content?id=ihztoBxLEVQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ihztoBxLEVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
         },
-      ],
-      "infoLink": "http://books.google.com/books?id=Qn04AAAAYAAJ&dq=jane+austen&hl=&source=gbs_api",
-      "language": "fr",
-      "maturityRating": "NOT_MATURE",
-      "pageCount": 399,
-      "panelizationSummary": Object {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false,
-      },
-      "previewLink": "http://books.google.com/books?id=Qn04AAAAYAAJ&q=jane+austen&dq=jane+austen&hl=&cd=2&source=gbs_api",
-      "printType": "BOOK",
-      "publishedDate": "1914",
-      "readingModes": Object {
-        "image": false,
-        "text": false,
-      },
-      "subtitle": "sa vie et son oeuvre, 1775-1817",
-      "title": "Jane Austen",
-    },
-  },
-  Object {
-    "accessInfo": Object {
-      "accessViewStatus": "SAMPLE",
-      "country": "DZ",
-      "embeddable": true,
-      "epub": Object {
-        "isAvailable": true,
-      },
-      "pdf": Object {
-        "isAvailable": true,
-      },
-      "publicDomain": false,
-      "quoteSharingAllowed": false,
-      "textToSpeechPermission": "ALLOWED",
-      "viewability": "PARTIAL",
-      "webReaderLink": "http://play.google.com/books/reader?id=nqf_Wj2Wwx4C&hl=&printsec=frontcover&source=gbs_api",
-    },
-    "etag": "4KpUMdm8LLY",
-    "id": "nqf_Wj2Wwx4C",
-    "kind": "books#volume",
-    "saleInfo": Object {
-      "country": "DZ",
-      "isEbook": false,
-      "saleability": "NOT_FOR_SALE",
-    },
-    "searchInfo": Object {
-      "textSnippet": "And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter 
-on the recent film version of Mansfield Park.",
-    },
-    "selfLink": "https://www.googleapis.com/books/v1/volumes/nqf_Wj2Wwx4C",
-    "volumeInfo": Object {
-      "allowAnonLogging": false,
-      "authors": Array [
-        "Linda Troost",
-        "Sayre N. Greenfield",
-      ],
-      "averageRating": 5,
-      "canonicalVolumeLink": "https://books.google.com/books/about/Jane_Austen_in_Hollywood.html?hl=&id=nqf_Wj2Wwx4C",
-      "categories": Array [
-        "Performing Arts",
-      ],
-      "contentVersion": "0.0.2.0.preview.3",
-      "description": "In 1995 and 1996 six film or television adaptations of Jane Austen's novels were produced -- an unprecedented number. More amazing, all were critical and/or box office successes. What accounts for this explosion of interest? Much of the appeal of these films lies in our nostalgic desire at the end of the millennium for an age of greater politeness and sexual reticence. Austen's ridicule of deceit and pretentiousness also appeals to our fin de siècle sensibilities. The novels were changed, however, to enhance their appeal to a wide popular audience, and the revisions reveal much about our own culture and its values. These recent productions espouse explicitly twentieth-century feminist notions and reshape the Austenian hero to make him conform to modern 
-expectations. Linda Troost and Sayre Greenfield present fourteen essays examining the phenomenon of Jane Austen as cultural icon, providing thoughtful and sympathetic insights on the films through a variety of critical approaches. The contributors debate whether these productions enhance or undercut the subtle feminism that Austen promoted in her novels. From Persuasion to Pride and Prejudice, from the three Emmas (including Clueless ) to Sense and Sensibility, these films succeed because they flatter our intelligence and education. And they have as much to tell us about ourselves as they do about the world of Jane Austen. This second edition includes a new chapter on the recent film version of Mansfield Park.",
-      "imageLinks": Object {
-        "smallThumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
-        "thumbnail": "http://books.google.com/books/content?id=nqf_Wj2Wwx4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-      },
-      "industryIdentifiers": Array [
-        Object {
-          "identifier": "0813190061",
-          "type": "ISBN_10",
+        "industryIdentifiers": Array [
+          Object {
+            "identifier": "9782806225580",
+            "type": "ISBN_13",
+          },
+          Object {
+            "identifier": "2806225582",
+            "type": "ISBN_10",
+          },
+        ],
+        "infoLink": "http://books.google.com/books?id=ihztoBxLEVQC&dq=Harry+Potter&hl=&source=gbs_api",
+        "language": "fr",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 10,
+        "panelizationSummary": Object {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false,
         },
-        Object {
-          "identifier": "9780813190068",
-          "type": "ISBN_13",
+        "previewLink": "http://books.google.com/books?id=ihztoBxLEVQC&printsec=frontcover&dq=Harry+Potter&hl=&cd=1&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2011-01-01",
+        "publisher": "Primento",
+        "readingModes": Object {
+          "image": true,
+          "text": true,
         },
-      ],
-      "infoLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&dq=jane+austen&hl=&source=gbs_api",
-      "language": "en",
-      "maturityRating": "NOT_MATURE",
-      "pageCount": 221,
-      "panelizationSummary": Object {
-        "containsEpubBubbles": false,
-        "containsImageBubbles": false,
+        "subtitle": "Résumé complet et analyse détaillée de l'oeuvre",
+        "title": "Harry Potter et la Coupe de feu de J. K. Rowling (Fiche de lecture)",
       },
-      "previewLink": "http://books.google.com/books?id=nqf_Wj2Wwx4C&printsec=frontcover&dq=jane+austen&hl=&cd=3&source=gbs_api",
-      "printType": "BOOK",
-      "publishedDate": "2001",
-      "publisher": "University Press of Kentucky",
-      "ratingsCount": 2,
-      "readingModes": Object {
-        "image": true,
-        "text": true,
-      },
-      "title": "Jane Austen in Hollywood",
     },
-  },
-  Object {
-    "accessInfo": Object {
-      "accessViewStatus": "SAMPLE",
-      "country": "DZ",
-      "embeddable": true,
-      "epub": Object {
-        "acsTokenLink": "http://books.google.com/books/download/Jane_Austen-sample-epub.acsm?id=mvaMmTPlesEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
-        "isAvailable": true,
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "SAMPLE",
+        "country": "DZ",
+        "embeddable": true,
+        "epub": Object {
+          "isAvailable": false,
+        },
+        "pdf": Object {
+          "isAvailable": false,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ifu1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
       },
-      "pdf": Object {
-        "acsTokenLink": "http://books.google.com/books/download/Jane_Austen-sample-pdf.acsm?id=mvaMmTPlesEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api",
-        "isAvailable": true,
+      "etag": "kYzobpCwmV8",
+      "id": "ifu1DwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
       },
-      "publicDomain": false,
-      "quoteSharingAllowed": false,
-      "textToSpeechPermission": "ALLOWED",
-      "viewability": "PARTIAL",
-      "webReaderLink": "http://play.google.com/books/reader?id=mvaMmTPlesEC&hl=&printsec=frontcover&source=gbs_api",
+      "searchInfo": Object {
+        "textSnippet": "C’est l&#39;univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un ...",
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifu1DwAAQBAJ",
+      "volumeInfo": Object {
+        "allowAnonLogging": false,
+        "authors": Array [
+          "Mark Brake",
+          "Jon Chase",
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_science_ou_sorcellerie.html?hl=&id=ifu1DwAAQBAJ",
+        "categories": Array [
+          "Science",
+        ],
+        "contentVersion": "preview-1.0.0",
+        "description": "C’est l'univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous 
+ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un prisme nouveau : celui de la science. « Mr. Et Mrs Dursley, qui 
+habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu'ils étaient parfaitement normaux, merci pour eux. » Voici l’incipit de 
+la célèbre saga Harry Potter il y a 20 ans maintenant. Et pourtant, tout ce qui suit ces mots ne relève pas de la normalité, bien au contraire, merci pour nous ! C’est justement cet univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un prisme nouveau : celui de la science. La rencontre entre la magie de Harry Potter et la science des moldus que nous sommes met en perspective les deux univers de façon originale, pertinente et toujours empreinte de l’esprit vif 
+et malicieux de Rowling. Organisé en quatre grandes thématiques (Philosophie magique / Ruse et attirail techniques / Herbologie, Zoologie et Potions / Pot-pourri magique), cet ouvrage permet de revenir sur les éléments qui font la particularité de l’univers du sorcier et de mettre en lumière la science qui se cache derrière. Avec humour, les auteurs proposent aussi aux lecteurs de laisser libre cours à leur imagination et à leurs rêves les plus fous : Pourrions-nous 
+recréer l’horloge de la famille Weasley ? Est-il possible de fabriquer une Carte du Maraudeur pour sécher les cours ? Verrons-nous un jour une cape d’invisibilité ? etc.",
+        "imageLinks": Object {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifu1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifu1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        },
+        "industryIdentifiers": Array [
+          Object {
+            "identifier": "9782807324718",
+            "type": "ISBN_13",
+          },
+          Object {
+            "identifier": "2807324711",
+            "type": "ISBN_10",
+          },
+        ],
+        "infoLink": "http://books.google.com/books?id=ifu1DwAAQBAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "language": "fr",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 296,
+        "panelizationSummary": Object {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false,
+        },
+        "previewLink": "http://books.google.com/books?id=ifu1DwAAQBAJ&printsec=frontcover&dq=Harry+Potter&hl=&cd=2&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2019-10-21",
+        "publisher": "De Boeck Superieur",
+        "readingModes": Object {
+          "image": true,
+          "text": false,
+        },
+        "title": "Harry Potter, science ou sorcellerie ?",
+      },
     },
-    "etag": "K8aUPoT9aBg",
-    "id": "mvaMmTPlesEC",
-    "kind": "books#volume",
-    "saleInfo": Object {
-      "country": "DZ",
-      "isEbook": false,
-      "saleability": "NOT_FO...(truncated to the first 10000 characters)
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "NONE",
+        "country": "DZ",
+        "embeddable": false,
+        "epub": Object {
+          "isAvailable": false,
+        },
+        "pdf": Object {
+          "isAvailable": false,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=Q2osnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "x8kT6S67k+8",
+      "id": "Q2osnwEACAAJ",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "J.K. Rowling révèle dans ce sixième to...(truncated to the first 10000 characters)
+Array [
+  Array [
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "SAMPLE",
+        "country": "DZ",
+        "embeddable": true,
+        "epub": Object {
+          "isAvailable": true,
+        },
+        "pdf": Object {
+          "isAvailable": true,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ihztoBxLEVQC&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "v7Jh2Y4wT3Q",
+      "id": "ihztoBxLEVQC",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihztoBxLEVQC",
+      "volumeInfo": Object {
+        "allowAnonLogging": true,
+        "authors": Array [
+          "Sandrine Guihéneuf",
+          "lePetitLittéraire.fr,",
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_et_la_Coupe_de_feu_de_J_K_R.html?hl=&id=ihztoBxLEVQC",
+        "categories": Array [
+          "Fiction",
+        ],
+        "contentVersion": "4.12.13.0.preview.3",
+        "description": "Décryptez Harry Potter et la Coupe de Feu de J.K. Rowling avec l’analyse du PetitLitteraire.fr ! Que faut-il retenir d’Harry Potter et la Coupe de Feu, le quatrième tome de la saga littéraire qui a conquis les lecteurs du monde entier ? Retrouvez tout ce que vous devez savoir sur cette œuvre dans une fiche de lecture complète et détaillée. Vous trouverez notamment dans cette fiche : • Un résumé complet • Une présentation des personnages principaux tels que Harry Potter, Ronald Weasley et Hermione Granger • Une analyse des spécificités de l’œuvre : le schéma actantiel, le schéma narratif et le genre du fantasy Une analyse de référence pour comprendre rapidement le sens de l’œuvre. LE MOT DE L’ÉDITEUR : « Dans cette nouvelle édition de notre analyse d’Harry Potter et la Coupe de Feu (2014), avec Sandrine Guihéneuf, nous fournissons des pistes pour décoder ce roman au succès planétaire. Notre analyse permet 
+de faire rapidement le tour de l’œuvre et d’aller au-delà des clichés. » Stéphanie FELTEN À propos de la collection LePetitLitteraire.fr : Plébiscité tant par les passionnés de littérature que par les lycéens, LePetitLittéraire.fr est considéré comme une référence en matière d’analyse d’œuvres classiques et contemporaines. Nos analyses, disponibles au format papier et numérique, ont été conçues pour guider les lecteurs à travers la littérature. Nos auteurs combinent 
+théories, citations, anecdotes et commentaires pour vous faire découvrir et redécouvrir les plus grandes œuvres littéraires. LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
+        "imageLinks": Object {
+          "smallThumbnail": "http://books.google.com/books/content?id=ihztoBxLEVQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ihztoBxLEVQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        },
+        "industryIdentifiers": Array [
+          Object {
+            "identifier": "9782806225580",
+            "type": "ISBN_13",
+          },
+          Object {
+            "identifier": "2806225582",
+            "type": "ISBN_10",
+          },
+        ],
+        "infoLink": "http://books.google.com/books?id=ihztoBxLEVQC&dq=Harry+Potter&hl=&source=gbs_api",
+        "language": "fr",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 10,
+        "panelizationSummary": Object {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false,
+        },
+        "previewLink": "http://books.google.com/books?id=ihztoBxLEVQC&printsec=frontcover&dq=Harry+Potter&hl=&cd=1&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2011-01-01",
+        "publisher": "Primento",
+        "readingModes": Object {
+          "image": true,
+          "text": true,
+        },
+        "subtitle": "Résumé complet et analyse détaillée de l'oeuvre",
+        "title": "Harry Potter et la Coupe de feu de J. K. Rowling (Fiche de lecture)",
+      },
+    },
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "SAMPLE",
+        "country": "DZ",
+        "embeddable": true,
+        "epub": Object {
+          "isAvailable": false,
+        },
+        "pdf": Object {
+          "isAvailable": false,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ifu1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "kYzobpCwmV8",
+      "id": "ifu1DwAAQBAJ",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "C’est l&#39;univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un ...",
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifu1DwAAQBAJ",
+      "volumeInfo": Object {
+        "allowAnonLogging": false,
+        "authors": Array [
+          "Mark Brake",
+          "Jon Chase",
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_science_ou_sorcellerie.html?hl=&id=ifu1DwAAQBAJ",
+        "categories": Array [
+          "Science",
+        ],
+        "contentVersion": "preview-1.0.0",
+        "description": "C’est l'univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous 
+ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un prisme nouveau : celui de la science. « Mr. Et Mrs Dursley, qui 
+habitaient au 4, Privet Drive, avaient toujours affirmé avec la plus grande fierté qu'ils étaient parfaitement normaux, merci pour eux. » Voici l’incipit de 
+la célèbre saga Harry Potter il y a 20 ans maintenant. Et pourtant, tout ce qui suit ces mots ne relève pas de la normalité, bien au contraire, merci pour nous ! C’est justement cet univers incroyable et magique que se proposent de décortiquer les deux auteurs de l’ouvrage en offrant la possibilité à tous ceux qui ont été bercés par le monde ensorcelant de J.K. Rowling de le (re)découvrir sous un prisme nouveau : celui de la science. La rencontre entre la magie de Harry Potter et la science des moldus que nous sommes met en perspective les deux univers de façon originale, pertinente et toujours empreinte de l’esprit vif 
+et malicieux de Rowling. Organisé en quatre grandes thématiques (Philosophie magique / Ruse et attirail techniques / Herbologie, Zoologie et Potions / Pot-pourri magique), cet ouvrage permet de revenir sur les éléments qui font la particularité de l’univers du sorcier et de mettre en lumière la science qui se cache derrière. Avec humour, les auteurs proposent aussi aux lecteurs de laisser libre cours à leur imagination et à leurs rêves les plus fous : Pourrions-nous 
+recréer l’horloge de la famille Weasley ? Est-il possible de fabriquer une Carte du Maraudeur pour sécher les cours ? Verrons-nous un jour une cape d’invisibilité ? etc.",
+        "imageLinks": Object {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifu1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifu1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+        },
+        "industryIdentifiers": Array [
+          Object {
+            "identifier": "9782807324718",
+            "type": "ISBN_13",
+          },
+          Object {
+            "identifier": "2807324711",
+            "type": "ISBN_10",
+          },
+        ],
+        "infoLink": "http://books.google.com/books?id=ifu1DwAAQBAJ&dq=Harry+Potter&hl=&source=gbs_api",
+        "language": "fr",
+        "maturityRating": "NOT_MATURE",
+        "pageCount": 296,
+        "panelizationSummary": Object {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false,
+        },
+        "previewLink": "http://books.google.com/books?id=ifu1DwAAQBAJ&printsec=frontcover&dq=Harry+Potter&hl=&cd=2&source=gbs_api",
+        "printType": "BOOK",
+        "publishedDate": "2019-10-21",
+        "publisher": "De Boeck Superieur",
+        "readingModes": Object {
+          "image": true,
+          "text": false,
+        },
+        "title": "Harry Potter, science ou sorcellerie ?",
+      },
+    },
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "NONE",
+        "country": "DZ",
+        "embeddable": false,
+        "epub": Object {
+          "isAvailable": false,
+        },
+        "pdf": Object {
+          "isAvailable": false,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "NO_PAGES",
+        "webReaderLink": "http://play.google.com/books/reader?id=Q2osnwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "x8kT6S67k+8",
+      "id": "Q2osnwEACAAJ",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "J.K. Rowling révèle dans ce sixième to...(truncated to the first 10000 characters)
+Array [
+  Array [
+    Object {
+      "accessInfo": Object {
+        "accessViewStatus": "SAMPLE",
+        "country": "DZ",
+        "embeddable": true,
+        "epub": Object {
+          "isAvailable": true,
+        },
+        "pdf": Object {
+          "isAvailable": true,
+        },
+        "publicDomain": false,
+        "quoteSharingAllowed": false,
+        "textToSpeechPermission": "ALLOWED",
+        "viewability": "PARTIAL",
+        "webReaderLink": "http://play.google.com/books/reader?id=ihztoBxLEVQC&hl=&printsec=frontcover&source=gbs_api",
+      },
+      "etag": "v7Jh2Y4wT3Q",
+      "id": "ihztoBxLEVQC",
+      "kind": "books#volume",
+      "saleInfo": Object {
+        "country": "DZ",
+        "isEbook": false,
+        "saleability": "NOT_FOR_SALE",
+      },
+      "searchInfo": Object {
+        "textSnippet": "LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
+      },
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ihztoBxLEVQC",
+      "volumeInfo": Object {
+        "allowAnonLogging": true,
+        "authors": Array [
+          "Sandrine Guihéneuf",
+          "lePetitLittéraire.fr,",
+        ],
+        "canonicalVolumeLink": "https://books.google.com/books/about/Harry_Potter_et_la_Coupe_de_feu_de_J_K_R.html?hl=&id=ihztoBxLEVQC",
+        "categories": Array [
+          "Fiction",
+        ],
+        "contentVersion": "4.12.13.0.preview.3",
+        "description": "Décryptez Harry Potter et la Coupe de Feu de J.K. Rowling avec l’analyse du PetitLitteraire.fr ! Que faut-il retenir d’Harry Potter et la Coupe de Feu, le quatrième tome de la saga littéraire qui a conquis les lecteurs du monde entier ? Retrouvez tout ce que vous devez savoir sur cette œuvre dans une fiche de lecture complète et détaillée. Vous trouverez notamment dans cette fiche : • Un résumé complet • Une présentation des personnages principaux tels que Harry Potter, Ronald Weasley et Hermione Granger • Une analyse des spécificités de l’œuvre : le schéma actantiel, le schéma narratif et le genre du fantasy Une analyse de référence pour comprendre rapidement le sens de l’œuvre. LE MOT DE L’ÉDITEUR : « Dans cette nouvelle édition de notre analyse d’Harry Potter et la Coupe de Feu (2014), avec Sandrine Guihéneuf, nous fournissons des pistes pour décoder ce roman au succès planétaire. Notre analyse permet 
+de faire rapidement le tour de l’œuvre et d’aller au-delà des clichés. » Stéphanie FELTEN À propos de la collection LePetitLitteraire.fr : Plébiscité tant par les passionnés de littérature que par les lycéens, LePetitLittéraire.fr est considéré comme une référence en matière d’analyse d’œuvres classiques et contemporaines. Nos analyses, disponibles au format papier et numérique, ont été conçues pour guider les lecteurs à travers la littérature. Nos auteurs combinent 
+théories, citations, anecdotes et commentaires pour vous faire découvrir et redécouvrir les plus grandes œuvres littéraires. LePetitLittéraire.fr est reconnu d’intérêt pédagogique par le ministère de l’Éducation. Plus d’informations sur http://www.lepetitlitteraire.fr",
+        "imageLinks": Object {
+          "smallThumbnail": "http://books.google.com
