@@ -4,9 +4,6 @@ import { globalStyles, images } from '../styles/global';
 import Card from '../shared/card'
 
 export default function ReviewDetails({ navigation }) {
-    /*pressHandler = ()=>{
-        navigation.goBack();
-    }*/
     const rating = navigation.getParam('rating');
     return (
 

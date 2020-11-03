@@ -6,7 +6,6 @@ import React from 'react';
 import theme from "../constants/Theme"
 import Profile from '../screens/profile'
 import BookDetails from '../screens/bookDetails';
-
 const screens = {
     Home: {
         screen: Home,
@@ -18,22 +17,20 @@ const screens = {
     },
     BookDetails: {
         screen: BookDetails,
-        navigationOptions: {
-            title: 'Book Details',
-        }
+        navigationOptions: ({navigation})=> {
+            return{
+                headerTitle : ()=><Header navigation={navigation} title={'Home'}/>
+             };
+         }
     },
-  
+
 
 }
 
-const HomeStack = createStackNavigator(screens, {
-    defaultNavigationOptions: {
-        headerTintColor : theme.COLORS.PRIMARY,
-        headerStyle : {
-            backgroundColor :theme.COLORS.PRIMARY,
-        }
+const HomeStack = createStackNavigator(screens, {defaultNavigationOptions: {
+    
+    header: null,
 
-    }
 }
-);
+});
 export default HomeStack;

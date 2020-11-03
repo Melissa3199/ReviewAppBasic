@@ -33,7 +33,6 @@ const CustomerDrawerComponent = (props) =>(
  </SafeAreaView>
 )
 const rootDrawerNavigator = createDrawerNavigator(screens, {
-    // drawerBackgroundColor: theme.COLORS.PRIMARY,
      contentOptions: {
         activeTintcolor: theme.COLORS.WHITE,
         inactiveTintColor: theme.COLORS.WHITE,
@@ -54,7 +53,8 @@ const rootDrawerNavigator = createDrawerNavigator(screens, {
 
 
 );
-export default createAppContainer(rootDrawerNavigator);
+var Drawer = createAppContainer(rootDrawerNavigator);
+ export default Drawer;
 
 const styles = StyleSheet.create({
     container:{

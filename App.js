@@ -5,7 +5,8 @@ import Navigator from './routes/drawer';
 import BookCard from './components/BookCard'
 import Books from './components/Books'
 import {BookProvider} from './routes/BookContext'
-
+import NavigatorWelcome from './routes/welcomeStack';
+import * as firebase from "firebase";
 
 const getFonts = ()=> Font.loadAsync({
   'Caveat-Regular': require('./assets/fonts/Caveat-Regular.ttf'),
@@ -26,8 +27,8 @@ const [fontsLoaded,setFontsLoaded] = useState(false);
 if(fontsLoaded){
 return (
   <BookProvider>
-     <Navigator/>
-  </BookProvider>
+     <NavigatorWelcome/>
+</BookProvider>
 );
 }else{
 return(
